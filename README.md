@@ -4,5 +4,5 @@ Install httpx from https://github.com/projectdiscovery/httpx<br>
 Install subfinder from https://github.com/projectdiscovery/subfinder<br>
 Install waybackurls from https://github.com/tomnomnom/waybackurls
 
-#Usage
+# Usage
 ./crawl_s3_bucket.sh example.com
