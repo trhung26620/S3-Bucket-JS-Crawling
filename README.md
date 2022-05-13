@@ -2,7 +2,7 @@
 Install gau from https://github.com/lc/gau<br>
 Install httpx from https://github.com/projectdiscovery/httpx<br>
 Install subfinder from https://github.com/projectdiscovery/subfinder<br>
-Install waybackurls from https://github.com/tomnomnom/waybackurls
+Install waybackurls from https://github.com/tomnomnom/waybackurls<br>
 Install subjs from https://github.com/lc/subjs
 
 # Usage
